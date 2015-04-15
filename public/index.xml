@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pallets</title>
-    <link>http://localhost:1313/</link>
+    <link>http://labilapallets.com/</link>
     <description>Recent content on Pallets</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Apr 2015 15:50:42 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://labilapallets.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact-us/</link>
+      <link>http://labilapallets.com/contact-us/</link>
       <pubDate>Wed, 15 Apr 2015 15:50:42 +0400</pubDate>
       
-      <guid>http://localhost:1313/contact-us/</guid>
+      <guid>http://labilapallets.com/contact-us/</guid>
       <description>
 
 &lt;iframe src=&#34;https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true&#34; width=&#34;700&#34; height=&#34;920&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
@@ -35,11 +35,11 @@
     
     <item>
       <title>Wooden Pallets Products</title>
-      <link>http://localhost:1313/products/</link>
+      <link>http://labilapallets.com/products/</link>
       <pubDate>Wed, 15 Apr 2015 15:29:06 +0400</pubDate>
       
-      <guid>http://localhost:1313/products/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/img/home-pallets.jpg&#34; alt=&#34;Wooden Pallet Product&#34; /&gt;
+      <guid>http://labilapallets.com/products/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://labilapallets.com/static/img/home-pallets.jpg&#34; alt=&#34;Wooden Pallet Product&#34; /&gt;
 &lt;/p&gt;
 
 &lt;ul&gt;
