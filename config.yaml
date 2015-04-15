@@ -1,4 +1,5 @@
 ---
 title: "Pallets"
 baseurl: 'http://labilapallets.com/'
+publishdir: 'deploy'
 ---
