@@ -25,13 +25,13 @@ git commit -m "$msg"
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Push source and build repos.
-git push origin master
+# git push origin master
 
 echo -e "\033[0;32mSwitching to Deploy DIR...\033[0m"
 
 # Start deployment
-DEPLOY_DIR= "$( pwd )/deploy/"
-cd $DEPLOY_DIR
+DD="$DIR/deploy"
+cd $DD
 
 # Add changes to git.
 git add --all .
