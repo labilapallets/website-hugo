@@ -29,7 +29,7 @@ git push origin master
 
 # Start deployment
 
-CD ./deploy
+CD $DIR/deploy
 
 # Add changes to git.
 git add --all .
