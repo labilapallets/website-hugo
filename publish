@@ -27,9 +27,11 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 # Push source and build repos.
 git push origin master
 
-# Start deployment
+echo -e "\033[0;32mSwitching to Deploy DIR...\033[0m"
 
-CD $DIR/deploy
+# Start deployment
+DEPLOY_DIR = "$(pwd)/deploy"
+CD $DEPLOY_DIR
 
 # Add changes to git.
 git add --all .
