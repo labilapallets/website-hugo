@@ -31,7 +31,7 @@ echo -e "\033[0;32mSwitching to Deploy DIR...\033[0m"
 
 # Start deployment
 DEPLOY_DIR = "$(pwd)/deploy"
-CD DEPLOY_DIR
+CD ./$(DEPLOY_DIR)
 
 # Add changes to git.
 git add --all .
