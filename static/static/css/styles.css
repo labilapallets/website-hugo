@@ -135,6 +135,14 @@ h3 {
     font-size: 26px;
     margin-bottom: 2em;
   }
+@media(max-width: 768px) {
+  .hompage-jumbotron h1 {
+    font-size: 2em;
+  }
+  .hompage-jumbotron .lead {
+    font-size: 1.2em;
+  }
+}
 
 
 /*========================================================
