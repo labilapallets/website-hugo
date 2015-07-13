@@ -2,9 +2,24 @@
 date = "2015-04-15T15:29:06+04:00"
 title = "Wooden Pallets Products"
 +++
+<script src="/static/js/lazysizes.min.js" async=""></script>
 
-![Wooden Pallet Product](/static/img/home-pallets.jpg)
+## Products with Photos
+- **Euro pallets  -  Size 120 x 80 cm  ( Used )**
+<div class="container-fluid" style="margin: 10px 0;">
+    <div class="row-fluid">
+        <div class="col-md-12">
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/static/img/euro/1.jpg" alt="" width="200px" height="200px" style="margin-top: 5px">
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/static/img/euro/2.jpg" alt="" width="200px" height="200px" style="margin-top: 5px">
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/static/img/euro/3.jpg" alt="" width="200px" height="200px" style="margin-top: 5px">
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/static/img/euro/4.jpg" alt="" width="200px" height="200px" style="margin-top: 5px">
+            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/static/img/euro/4.jpg" alt="" width="200px" height="200px" style="margin-top: 5px">
+        </div>
+    </div>
+</div>
+-
 
+## Other Products
 - **Block Pallet:** A pallet with blocks between top and bottom decks; It’s easy for forklift to get access.
 
 - **Double-Wing Pallet:** A pallet with top and bottom deck boards extending beyond the edges of the stringers or stringer boards.

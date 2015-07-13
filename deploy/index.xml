@@ -41,8 +41,29 @@
       <pubDate>Wed, 15 Apr 2015 15:29:06 +0400</pubDate>
       
       <guid>http://labilapallets.com/products/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://labilapallets.com/static/img/home-pallets.jpg&#34; alt=&#34;Wooden Pallet Product&#34; /&gt;
-&lt;/p&gt;
+      <description>
+
+&lt;script src=&#34;http://labilapallets.com/static/js/lazysizes.min.js&#34; async=&#34;&#34;&gt;&lt;/script&gt;
+
+&lt;h2 id=&#34;products-with-photos:00bfec932a1288b5fcd69397805e20e9&#34;&gt;Products with Photos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Euro pallets  -  Size 120 x 80 cm  ( Used )&lt;/strong&gt;
+&lt;div class=&#34;container-fluid&#34; style=&#34;margin: 10px 0;&#34;&gt;
+&lt;div class=&#34;row-fluid&#34;&gt;
+    &lt;div class=&#34;col-md-12&#34;&gt;
+        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/1.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/2.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/3.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+-&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;other-products:00bfec932a1288b5fcd69397805e20e9&#34;&gt;Other Products&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Block Pallet:&lt;/strong&gt; A pallet with blocks between top and bottom decks; It’s easy for forklift to get access.&lt;/p&gt;&lt;/li&gt;
