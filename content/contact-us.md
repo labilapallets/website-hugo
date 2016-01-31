@@ -10,7 +10,6 @@ title = "Contact Us"
 
 - Box No 22232 , Al Saja-a , Sharjah
 - **Email:** labilackp@gmail.com
-- **Alternate Email:** pradeepckesavan@gmail.com
 - **Telephone:** +971-504815841
 - **Mobile:** +971501540759
 - **Fax:** +971(6)5436619
