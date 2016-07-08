@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pallets</title>
-    <link>http://labilapallets.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Pallets</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Apr 2015 15:50:42 +0400</lastBuildDate>
-    <atom:link href="http://labilapallets.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact Us</title>
-      <link>http://labilapallets.com/contact-us/</link>
+      <link>http://localhost:1313/contact-us/</link>
       <pubDate>Wed, 15 Apr 2015 15:50:42 +0400</pubDate>
       
-      <guid>http://labilapallets.com/contact-us/</guid>
+      <guid>http://localhost:1313/contact-us/</guid>
       <description>
 
 &lt;iframe src=&#34;https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true&#34; width=&#34;700&#34; height=&#34;920&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
@@ -36,26 +36,24 @@
     
     <item>
       <title>Wooden Pallets Products</title>
-      <link>http://labilapallets.com/products/</link>
+      <link>http://localhost:1313/products/</link>
       <pubDate>Wed, 15 Apr 2015 15:29:06 +0400</pubDate>
       
-      <guid>http://labilapallets.com/products/</guid>
+      <guid>http://localhost:1313/products/</guid>
       <description>
-
-&lt;script src=&#34;http://labilapallets.com/static/js/lazysizes.min.js&#34; async=&#34;&#34;&gt;&lt;/script&gt;
 
 &lt;h2 id=&#34;products-with-photos:00bfec932a1288b5fcd69397805e20e9&#34;&gt;Products with Photos&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Euro pallets  -  Size 120 x 80 cm  ( Used )&lt;/strong&gt;
-&lt;div class=&#34;container-fluid&#34; style=&#34;margin: 10px 0;&#34;&gt;
+&lt;div class=&#34;container-fluid margin-10&#34;&gt;
 &lt;div class=&#34;row-fluid&#34;&gt;
     &lt;div class=&#34;col-md-12&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/1.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/2.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/3.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
+        &lt;amp-img layout=&#34;responsive&#34; src=&#34;http://localhost:1313/static/img/euro/1.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; class=&#34;product-image&#34;&gt;&lt;/amp-img&gt;
+        &lt;amp-img layout=&#34;responsive&#34; src=&#34;http://localhost:1313/static/img/euro/2.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; class=&#34;product-image&#34;&gt;&lt;/amp-img&gt;
+        &lt;amp-img layout=&#34;responsive&#34; src=&#34;http://localhost:1313/static/img/euro/3.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; class=&#34;product-image&#34;&gt;&lt;/amp-img&gt;
+        &lt;amp-img layout=&#34;responsive&#34; src=&#34;http://localhost:1313/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; class=&#34;product-image&#34;&gt;&lt;/amp-img&gt;
+        &lt;amp-img layout=&#34;responsive&#34; src=&#34;http://localhost:1313/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; class=&#34;product-image&#34;&gt;&lt;/amp-img&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
