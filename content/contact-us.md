@@ -4,7 +4,7 @@ title = "Contact Us"
 
 +++
 
-<iframe src="https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true" width="700" height="920" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true" width="90%" height="920" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Address
 
