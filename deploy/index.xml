@@ -16,7 +16,15 @@
       <guid>https://labilapallets.com/contact-us/</guid>
       <description>
 
-&lt;iframe src=&#34;https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true&#34; width=&#34;90%&#34; height=&#34;920&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
+&lt;p&gt;&lt;amp-iframe 
+    src=&#34;https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true&#34; width=&#34;auto&#34;
+    height=&#34;920&#34;
+    frameborder=&#34;0&#34;
+    layout=&#34;fixed-height&#34;
+    sandbox=&#34;allow-scripts allow-same-origin&#34;
+&gt;
+    &lt;amp-img layout=&#34;fill&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=&#34; placeholder&gt;&lt;/amp-img&gt;
+&lt;/amp-iframe&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;address:70180c54893436729e3367503c70a6ee&#34;&gt;Address&lt;/h3&gt;
 
