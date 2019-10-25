@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pallets</title>
@@ -6,7 +6,9 @@
     <description>Recent content on Pallets</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Apr 2015 15:50:42 +0400</lastBuildDate>
-    <atom:link href="http://labilapallets.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://labilapallets.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Contact Us</title>
@@ -14,24 +16,7 @@
       <pubDate>Wed, 15 Apr 2015 15:50:42 +0400</pubDate>
       
       <guid>http://labilapallets.com/contact-us/</guid>
-      <description>
-
-&lt;iframe src=&#34;https://docs.google.com/forms/d/1LIzAbrjzLEyDJ32E2-QyJMstqb11b-ZSKDTJWT5dyY8/viewform?embedded=true&#34; width=&#34;700&#34; height=&#34;920&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
-
-&lt;h3 id=&#34;address:70180c54893436729e3367503c70a6ee&#34;&gt;Address&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Box No 22232 , Al Saja-a , Sharjah&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; labilackp@gmail.com&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Telephone:&lt;/strong&gt; +971-504815841&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile:&lt;/strong&gt; +971501540759&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fax:&lt;/strong&gt; +971(6)5436619&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;google-plus:70180c54893436729e3367503c70a6ee&#34;&gt;Google Plus&lt;/h3&gt;
-
-&lt;p&gt;&lt;a class=&#34;btn btn-lg btn-danger&#34; href=&#34;https://plus.google.com/+Labilapallets&#34;&gt;Labila Pallets Google Plus Page&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Loading... Address  Box No 22232 , Al Saja-a , Sharjah Email: labilackp@gmail.com Telephone: +971-504815841 Mobile: +971501540759 Fax: +971(6)5436619  Google Plus Labila Pallets Google Plus Page</description>
     </item>
     
     <item>
@@ -40,52 +25,9 @@
       <pubDate>Wed, 15 Apr 2015 15:29:06 +0400</pubDate>
       
       <guid>http://labilapallets.com/products/</guid>
-      <description>
-
-&lt;script src=&#34;http://labilapallets.com/static/js/lazysizes.min.js&#34; async=&#34;&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;products-with-photos:00bfec932a1288b5fcd69397805e20e9&#34;&gt;Products with Photos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Euro pallets  -  Size 120 x 80 cm  ( Used )&lt;/strong&gt;
-&lt;div class=&#34;container-fluid&#34; style=&#34;margin: 10px 0;&#34;&gt;
-&lt;div class=&#34;row-fluid&#34;&gt;
-    &lt;div class=&#34;col-md-12&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/1.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/2.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/3.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-        &lt;img class=&#34;lazyload&#34; src=&#34;data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7&#34; data-src=&#34;/static/img/euro/4.jpg&#34; alt=&#34;&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;margin-top: 5px&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
--&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;other-products:00bfec932a1288b5fcd69397805e20e9&#34;&gt;Other Products&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Block Pallet:&lt;/strong&gt; A pallet with blocks between top and bottom decks; It’s easy for forklift to get access.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Double-Wing Pallet:&lt;/strong&gt; A pallet with top and bottom deck boards extending beyond the edges of the stringers or stringer boards.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Four-Way Stringer Pallet:&lt;/strong&gt; The stringers between the decks are notched to admit the forklift for its entry in four ways.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Non-Reversible Pallet:&lt;/strong&gt; A pallet with bottom deck board configuration different from top deck.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reversible Pallet:&lt;/strong&gt; A pallet with identical top and bottom decks.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Single-Face Pallet:&lt;/strong&gt; A pallet having no bottom deck&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Single-Wing Pallet:&lt;/strong&gt; pallet with the top deck boards extending beyond the edges of the stringers or stringer-boards with the bottom deck boards flush&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Skid Pallet:&lt;/strong&gt; A pallet with no bottom deck.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Solid Deck Pallet:&lt;/strong&gt; A pallet constructed with no spacing between deck boards.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Two-Way Stringer Pallet:&lt;/strong&gt; Also known as 2-way pallet, A pallet with three stringers between top and bottom decks, which allows the forklift entry from two sides.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Products with Photos  Euro pallets - Size 120 x 80 cm ( Used )    -  Other Products  Block Pallet: A pallet with blocks between top and bottom decks; It’s easy for forklift to get access.
+ Double-Wing Pallet: A pallet with top and bottom deck boards extending beyond the edges of the stringers or stringer boards.
+ Four-Way Stringer Pallet: The stringers between the decks are notched to admit the forklift for its entry in four ways.</description>
     </item>
     
   </channel>
