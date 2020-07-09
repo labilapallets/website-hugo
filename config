@@ -4,3 +4,7 @@
 	bare = true
 	ignorecase = true
 	precomposeunicode = true
+[markup]
+        defaultMarkdownHandler = "goldmark"
+        [markup.goldmark.renderer]
+            unsafe = true
