@@ -20,8 +20,8 @@ title = "Contact Us"
 
 - Box No 22232 , Al Saja-a , Sharjah
 - **Email:** labilackp@gmail.com
-- **Telephone:** +971-504815841
-- **Mobile:** +971501540759
+- **Mobile:** +971509590372
+- **Alternate phone:** +971504815841
 - **Fax:** +971(6)5436619
 
 ### Google Plus
